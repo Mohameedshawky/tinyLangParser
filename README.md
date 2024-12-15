@@ -17,7 +17,7 @@ This project implements a parser and scanner for the TINY programming language. 
 ## Steps to Download executable FILE:
 - Drive link : https://drive.google.com/drive/folders/1cNlD6zZO4ta6nUkbhDNS1XlCsrLnMnW8?usp=sharing
 
-##demo 
+## Demo 
 - ![image](https://github.com/user-attachments/assets/8139ff85-0975-4338-8018-3e1690c5bd9e)
 
 Install dependencies with:
