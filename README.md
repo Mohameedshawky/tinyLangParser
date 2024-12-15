@@ -14,6 +14,11 @@ This project implements a parser and scanner for the TINY programming language. 
 - Matplotlib
 - NetworkX
 
+## Steps to Download executable FILE:
+- Drive link : https://drive.google.com/drive/folders/1cNlD6zZO4ta6nUkbhDNS1XlCsrLnMnW8?usp=sharing
+
 Install dependencies with:
 ```bash
 pip install -r requirements.txt
+
+
